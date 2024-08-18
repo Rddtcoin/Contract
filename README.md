@@ -20,3 +20,6 @@ https://m.ave.ai/token/0xb9edbe853ddccb4baaf49201be6c39ee1816e120-eth
 
 Geckoterminal:
 https://www.geckoterminal.com/pt/eth/pools/0x283e007f0746b04e0c26245296630fabbd7c2e5f
+
+Gitbook:
+https://rddt.gitbook.io
